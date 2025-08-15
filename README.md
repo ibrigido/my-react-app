@@ -1,1 +1,2 @@
-# my-react-app
+# My first full-stack project!
+# work in progress...
