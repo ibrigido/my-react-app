@@ -1,2 +1,3 @@
 # My first full-stack project!
-# work in progress...
+#### 🚧 This project is still under development. Stay tuned for updates!
+*Work in progress ...*
